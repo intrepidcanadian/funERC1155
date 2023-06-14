@@ -1,5 +1,22 @@
 {
-    "name": "Intrepid Token",
-    "description": "This is an example ERC1155 test-net token.",
-    "image": "https://unsplash.com/photos/qlKaN7eqay8"
-  }
+    "0": {
+        "id": 0,
+        "name": "CHARIZARD",
+        "description": "This is the description of my first token."
+    },
+    "1": {
+        "id": 1,
+        "name": "IVYSAUR",
+        "description": "This is the description of my second token."
+    },
+    "2": {
+        "id": 2,
+        "name": "PIKACHU",
+        "description": "This is the description of my third token."
+    },
+    "3": {
+        "id": 3,
+        "name": "CHARMANDER",
+        "description": "This is the description of my fourth token."
+    }
+}
